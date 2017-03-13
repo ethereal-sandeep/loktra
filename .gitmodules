@@ -1,3 +1,6 @@
 [submodule "hashrev"]
 	path = hashrev
 	url = https://github.com/ethereal-sandeep/hashrev.git
+[submodule "lokbot"]
+	path = lokbot
+	url = https://github.com/ethereal-sandeep/lokbot.git
