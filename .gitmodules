@@ -1,0 +1,3 @@
+[submodule "hashrev"]
+	path = hashrev
+	url = https://github.com/ethereal-sandeep/hashrev.git
